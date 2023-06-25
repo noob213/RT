@@ -1,5 +1,6 @@
 julia_coronel
 Mia_Pace
+lexie_vitale
 Ashton_Walsh
 Francesco_Ficty
 Juan_Carmelo
